@@ -1,0 +1,5 @@
+print(" +",*"+"*6,sep="---") 
+print("",*"Python", sep=" | ",end=" |\n")
+print(" +",*"+"*6,sep="---")
+print(" 0",*"123456",sep="   ")
+print("-6",*"54321",sep="  -")
