@@ -1,7 +1,7 @@
-package Java;
+package Java101;
 import java.util.Scanner;
 
-public class Taksimetre {
+public class TaksimetreHesaplama {
     public static void main(String[] args) {
         int km;
         double perKm = 2.20, total = 10;
@@ -13,6 +13,5 @@ public class Taksimetre {
         total += km*perKm;
         total = (total < 20) ? 20 : total ;
         System.out.print(total);
-        
     }
 }
