@@ -1,3 +1,5 @@
+package Java101.BoksMaci.src;
+
 public class Match {
     Fighter f1;
     Fighter f2;

@@ -1,3 +1,5 @@
+package Java101.BoksMaci.src;
+
 public class Main {
     public static void main(String[] args) {
         Fighter f1 = new Fighter("A", 10,120,100,30);

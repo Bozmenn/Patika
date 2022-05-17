@@ -1,3 +1,6 @@
+package Java101.BoksMaci.src;
+
+
 public class Fighter {
     String name;
     int damage;

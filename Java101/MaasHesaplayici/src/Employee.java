@@ -1,3 +1,5 @@
+package Java101.MaasHesaplayici.src;
+
 public class Employee {
     String name;
     double salary;
